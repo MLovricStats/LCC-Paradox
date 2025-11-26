@@ -63,21 +63,14 @@ Since every significant result at α = 0.05 has |z| > 1.96 > 1, **every signific
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Contents
 
 ```
 LCC-Paradox/
 ├── README.md                           # This file
 ├── LICENSE                             # MIT License
-├── R/
-│   └── LCC_Paradox_Supplementary_Code.R   # Complete R code
-├── Interactive/
-│   └── LCC-Paradox-Interactive-Tool.html  # Interactive demonstration
-├── Paper/
-│   ├── LCC_Paradox_Biometrika.tex         # LaTeX source
-│   └── Supplementary_Material.tex         # Supplementary material
-└── docs/
-    └── LCC-Paradox-Resources.html         # Landing page
+├── LCC_Paradox_Supplementary_Code.R    # Complete R code
+└── LCC-Paradox-Interactive-Tool.html   # Interactive demonstration
 ```
 
 ---
@@ -92,7 +85,7 @@ Visit: **[LCC Paradox Interactive Demo](https://sites.radford.edu/~mlovric/LCC-P
 
 ```r
 # Source the code
-source("R/LCC_Paradox_Supplementary_Code.R")
+source("LCC_Paradox_Supplementary_Code.R")
 
 # Compute Bayes factor
 BF01(z = 2.0, k = 2.0)  # k = n * tau^2
