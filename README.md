@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23758298/README.md)
 # ⚠️ The LCC Paradox: A Bayesian Statistical Paradox
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -52,7 +51,7 @@ where $k = n\tau^2$.
 
 For |z| > 1, there exists a unique **flip point** k* satisfying:
 
-$$(1+k^*)\ln(1+k^*) = z^2 k^*$$
+$$(1+k^{*})\ln(1+k^{*}) = z^2 k^{*}$$
 
 ### Universality Corollary
 
@@ -149,6 +148,7 @@ If you use this work, please cite:
 
 - **Interactive Tool:** [https://sites.radford.edu/~mlovric/LCC-Paradox-Interactive-Tool.html](https://sites.radford.edu/~mlovric/LCC-Paradox-Interactive-Tool.html)
 - **Resources Page:** [https://sites.radford.edu/~mlovric/LCC-Paradox-Resources.html](https://sites.radford.edu/~mlovric/LCC-Paradox-Resources.html)
+- **GitHub Repository:** [https://github.com/MLovricStats/LCC-Paradox](https://github.com/MLovricStats/LCC-Paradox)
 - **Author's Website:** [https://sites.radford.edu/~mlovric/](https://sites.radford.edu/~mlovric/)
 
 ---
