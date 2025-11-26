@@ -43,7 +43,7 @@ This answers Christian Robert's 2016 call to investigate the impact of the prior
 
 The Bayes factor in favor of H₀ for the normal model with known variance:
 
-$$\text{BF}_{01}(z; k) = \sqrt{1+k} \cdot \exp\left\\{-\frac{z^2 k}{2(1+k)}\right\\}$$
+$$\text{BF}_{01}(z; k) = \sqrt{1+k} \cdot \exp\left\{-\frac{z^2 k}{2(1+k)}\right\}$$
 
 where $k = n\tau^2$.
 
@@ -51,7 +51,7 @@ where $k = n\tau^2$.
 
 For |z| > 1, there exists a unique **flip point** k* satisfying:
 
-$$(1+k^{*})\ln(1+k^{*}) = z^2 k^{*}$$
+$$(1+k^{\ast})\ln(1+k^{\ast}) = z^2 k^{\ast}$$
 
 ### Universality Corollary
 
